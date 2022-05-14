@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, I am Musthafa Zaki Bahar, a data science enthusiast, and currently I am studying informatics engineering at Telkom University.
+
 <!--
 **mzakibhr/mzakibhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
