@@ -1,4 +1,4 @@
-### Hi there 👋 [![LinkedIn][linkedin-shield]][linkedin-url]
+### Hi there 👋
 
 Hello, I am Musthafa Zaki Bahar, a data science enthusiast, and currently I am studying informatics engineering at Telkom University.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [linkedin-url]: https://www.linkedin.com/in/zakibahar/
